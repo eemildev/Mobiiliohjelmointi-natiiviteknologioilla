@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="body_max_index">Body max index</string>
+    <string name="bmi_s">BMI: %s kg/m2</string>
+</resources>
